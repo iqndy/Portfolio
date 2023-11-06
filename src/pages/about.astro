@@ -1,0 +1,123 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+import ContactCTA from '../components/ContactCTA.astro';
+import Hero from '../components/Hero.astro';
+---
+
+<BaseLayout title="A propos | Andy SOK" description="En savoir plus sur Andy SOK">
+	<div class="stack gap-20">
+		<main class="wrapper about">
+			<Hero
+				title="A propos"
+				tagline="Découvez mon parcours et mes compétences."
+			>
+				<img
+					width="1553"
+					height="873"
+					src="/assets/at-work.jpg"
+					alt="Jeanine White at work with a colleague"
+				/>
+			</Hero>
+
+			<section>
+				<h2 class="section-title">Background</h2>
+				<div class="content">
+					Salut, moi c'est Andy SOK
+					<br>
+Je suis actuellement étudiant au lycée Turgot de Paris en deuxième année de BTS SIO (Services Informatiques aux Organisations) dans l'option SLAM (Solutions Logicielles et Application Métier) qui en gros est une option spécialisée pour le développement.
+<br>
+Actuellement toujours en cours d'étude , je vous propose sur ce portfolio de retrouver ci-dessous les différentes études, et projet professionnel que j'ai pu entreprendre au sein de ma carrière.
+<br>
+Vous retrouverez ci-dessous mon CV ainsi que mes différents projets 
+<br>
+<br>
+<center><a href="https://drive.google.com/file/d/1gteDHvcVJmG-X3XO74tFhPX3RKI5bte7/view?usp=drive_link">Télécharger mon CV</a>
+</center>
+
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">Education</h2>
+				<div class="content">
+					<p>Ma Deuxième Année en BTS SIO : La Suite de ma Passion Informatique
+
+						En deuxième année de BTS SIO, ma passion pour l'informatique continue de grandir. J'ai consolidé mes compétences techniques et je me concentre sur des domaines tels que la programmation avancée, la sécurité informatique, et la gestion de projets.
+						
+						Cette année, j'ai eu l'opportunité de travailler sur des projets concrets, ce qui m'a permis d'appliquer mes connaissances de manière pratique. J'ai également renforcé ma capacité à résoudre des problèmes et à collaborer au sein d'une équipe.
+						
+						Je suis déterminé à devenir un expert dans le domaine informatique, à explorer de nouvelles technologies et à préparer le terrain pour ma future carrière. Ma deuxième année en BTS SIO est une étape cruciale dans cette aventure passionnante.
+						
+						Rejoignez-moi dans cette aventure, et ensemble, nous continuerons à repousser les limites de l'informatique.
+						</p>
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">Skills</h2>
+				<div class="content">
+					<p>Évoluant en deuxième année de BTS SIO, je suis un passionné d'informatique doté de compétences avancées en programmation, notamment en PHP, HTML, CSS, et SQL. Ma formation m'a également permis d'acquérir une solide compréhension de la sécurité informatique, de la gestion de projets et de la création de solutions sur mesure. Je suis constamment en quête d'innovation pour créer des solutions technologiques de pointe. Mon portfolio illustre mon dévouement à l'excellence et mon ambition d'apporter une contribution significative au monde de la technologie.</p>
+				</div>
+			</section>
+		</main>
+
+		<ContactCTA />
+	</div>
+</BaseLayout>
+
+<style>
+	.about {
+		display: flex;
+		flex-direction: column;
+		gap: 3.5rem;
+	}
+
+	img {
+		margin-top: 1.5rem;
+		border-radius: 1.5rem;
+		box-shadow: var(--shadow-md);
+	}
+
+	section {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+		color: var(--gray-200);
+	}
+
+	.section-title {
+		grid-column-start: 1;
+		font-size: var(--text-xl);
+		color: var(--gray-0);
+	}
+
+	.content {
+		grid-column: 2 / 4;
+	}
+
+	.content :global(a) {
+		text-decoration: 1px solid underline transparent;
+		text-underline-offset: 0.25em;
+		transition: text-decoration-color var(--theme-transition);
+	}
+
+	.content :global(a:hover),
+	.content :global(a:focus) {
+		text-decoration-color: currentColor;
+	}
+
+	@media (min-width: 50em) {
+		.about {
+			display: grid;
+			grid-template-columns: 1fr 60% 1fr;
+		}
+
+		.about > :global(:first-child) {
+			grid-column-start: 2;
+		}
+
+		section {
+			display: contents;
+			font-size: var(--text-lg);
+		}
+	}
+</style>
