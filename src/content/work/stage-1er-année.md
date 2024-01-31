@@ -23,6 +23,6 @@ Mon stage s'est déroulé dans le service informatique de Xpollens, chargé de l
 
 Mon principal objectif était de créer une visualisation interactive des micro-services de l'entreprise à l'aide de la bibliothèque D3.js. Cette visualisation améliore la compréhension des systèmes internes de Xpollens et facilite la gestion et la prise de décision.
 
-Cette expérience de stage met en avant mes compétences en développement logiciel, en utilisation d'API et en gestion de systèmes informatiques, ainsi que ma capacité à relever des défis techniques au sein d'un environnement professionnel exigeant. Elle souligne également l'importance cruciale de l'informatique dans le succès des entreprises.
+Cette expérience de stage met en avant mes compétences en développement logiciel,  gestion de systèmes informatiques, ainsi que ma capacité à relever des défis techniques au sein d'un environnement professionnel exigeant. Elle souligne également l'importance cruciale de l'informatique dans le succès des entreprises.
 
 [**Télécharger mon rapport de stage**](https://drive.google.com/file/d/11rDwpaT0Oh2dlnuW-e2XJ9sHFK51DfHv/view?usp=drive_link)

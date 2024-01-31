@@ -21,8 +21,18 @@ Au cœur du service informatique, j'ai eu l'occasion de plonger au cœur du dév
 
 ### Mission 
 
-Ma mission principale a consisté à relever des défis stimulants dans le développement PHP et SQL. Ce segment de mon parcours professionnel a été marqué par la réalisation concrète de projets, l'identification de solutions face à des challenges spécifiques, et l'acquisition d'apprentissages clés. De la conception à la mise en production, cette mission a été une opportunité de mettre en pratique mes connaissances théoriques et de contribuer de manière significative aux objectifs de l'équipe informatique.
+Ma mission principale a consisté à relever des défis stimulants dans le développement PHP et SQL, en mettant en œuvre des solutions innovantes pour deux missions cruciales :
 
-En résumé, cette section de mon portfolio reflète non seulement mon immersion au sein de l'entreprise, mais également ma contribution au service informatique à travers des missions qui ont façonné mon expérience professionnelle et contribué à mon développement en tant que professionnel du domaine informatique.
+Système de Publipostage :
+
+Conception et développement d'un système de publipostage intégré.
+Gestion efficace de la création, personnalisation et envoi de messages à large échelle.
+Utilisation approfondie des langages PHP et SQL pour assurer la fonctionnalité et la performance du système.
+Importation de Base de Données dans un Logiciel CRM :
+
+Mise en place d'un processus d'importation fluide et sécurisé de données vers un logiciel CRM.
+Manipulation avancée des bases de données SQL pour garantir l'intégrité et la cohérence des informations importées.
+Collaboration étroite avec l'équipe informatique pour assurer une intégration réussie du système.
+Ce segment de mon parcours professionnel a été marqué par la réalisation concrète de ces projets spécifiques, l’identification de solutions face à des challenges uniques, et l’acquisition d’apprentissages clés. De la conception à la mise en production, ces missions ont été des opportunités exceptionnelles pour mettre en pratique mes connaissances théoriques et contribuer de manière significative aux objectifs de l’équipe informatique.
 
 [**Télécharger mon rapport de stage**](https://docs.google.com/document/d/1mPVR8R1uSf3LDhkqVC29QeaVY7CvUXjGwBixwnf6aDw/edit?usp=sharing)
