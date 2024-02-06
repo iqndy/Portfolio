@@ -17,7 +17,7 @@ Projet de Gestion des Visites Pharmaceutiques
 
 L'activité commerciale d'un laboratoire pharmaceutique repose principalement sur les visiteurs médicaux. Ces professionnels visitent régulièrement les médecins, pharmaciens, et autres praticiens pour promouvoir les produits du laboratoire. La communication directe avec les consommateurs est interdite, faisant des médecins la cible principale de cette promotion.
 
-![schéma](/public/assets/schema_gsb.jpg)
+![schéma](/dist/assets/schema_gsb.jpg)
 
 ##### Application à Réaliser
 
