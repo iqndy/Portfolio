@@ -1,7 +1,7 @@
 ---
 title: GSB
 publishDate: 2023-10-02 00:00:00
-img: /assets/stock-4.jpg
+img: /assets/Accueil_gsb.png
 img_alt: Soft pink and baby blue water ripples together in a subtle texture.
 description: |
   GSB est un projet qui permet de gérer des gestions de visites d'un cabinet 
@@ -13,27 +13,11 @@ Projet de Gestion des Visites Pharmaceutiques
 
 ##### Contexte
 
+[contexte GSB](https://docs.google.com/document/d/1k95FoHZHtKPw_loy_OsnM6d9NKNCblx4/edit?usp=drive_link&ouid=110825727112047897170&rtpof=true&sd=true)
+
 L'activité commerciale d'un laboratoire pharmaceutique repose principalement sur les visiteurs médicaux. Ces professionnels visitent régulièrement les médecins, pharmaciens, et autres praticiens pour promouvoir les produits du laboratoire. La communication directe avec les consommateurs est interdite, faisant des médecins la cible principale de cette promotion.
 
-##### Les Visiteurs Médicaux
-
-Les visiteurs médicaux ont pour mission de tenir informés les praticiens des produits du laboratoire. Chaque visiteur gère un portefeuille de praticiens et travaille selon des objectifs fixés par la hiérarchie. L'informatisation des comptes rendus de visite est nécessaire pour affiner les objectifs et l'attribution des budgets.
-
-##### L'Activité des Visiteurs
-
-Les visites comprennent la date, le motif prédéfini, les médicaments présentés, le nombre d'échantillons offerts, et le bilan de la visite. L'enregistrement de ces données est essentiel pour évaluer l'efficacité des visites.
-
-##### Les Produits
-
-Les médicaments du laboratoire sont identifiés par un numéro de produit, ayant des effets thérapeutiques, des contre-indications, une composition, et des interactions. Chaque produit appartient à une famille, et lors des visites, les visiteurs présentent ces produits aux médecins, laissant éventuellement des échantillons.
-
-##### Les Médecins
-
-Les médecins sont la cible principale des laboratoires. Les informations sur les médecins sont maintenues à jour à partir de fichiers achetés à des organismes spécialisés.
-
-##### Modélisation Complète des Données
-
-Le projet implique une modélisation complète des données pour gérer efficacement les informations sur les visites, les produits, les médecins, et les objectifs commerciaux.
+![schéma](/public/assets/schema_gsb.jpg)
 
 ##### Application à Réaliser
 
