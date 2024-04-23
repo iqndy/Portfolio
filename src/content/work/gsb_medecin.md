@@ -1,5 +1,5 @@
 ---
-title: GSB
+title: GSB médecin
 publishDate: 2023-10-02 00:00:00
 img: /assets/Accueil_gsb.png
 img_alt: Soft pink and baby blue water ripples together in a subtle texture.
